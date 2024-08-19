@@ -8,7 +8,7 @@ function checkEvenOdd (number) {
     }
 
 } 
-checkEvenOdd("even");
-checkEvenOdd()
+checkEvenOdd(9);
+
 
 
