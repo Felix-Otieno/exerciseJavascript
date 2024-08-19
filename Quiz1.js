@@ -8,7 +8,8 @@ function checkEvenOdd (number) {
     }
 
 } 
-checkEvenOdd(9);
+checkEvenOdd(2);
+checkEvenOdd(5);
 
 
 
